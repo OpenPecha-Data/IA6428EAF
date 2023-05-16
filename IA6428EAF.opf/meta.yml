@@ -1,0 +1,18 @@
+id: IA6428EAF
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:32:29.875810
+last_modified: 2023-01-04 11:32:29.875822
+source_metadata:
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+bases:
+  10E9:
+    title: The Inexpressible, Ultimate Confession (Yeshe Kuchokma)
+    base_file: 10E9.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
